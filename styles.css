@@ -9,3 +9,10 @@ font-size: 32px;
 color: aquamarine;
 background: blue;
 }
+.chamada{
+background: cadetblue;
+padding-top: 100px;
+padding-bottom: 100px;
+display:flex ;
+justify-content: center;
+}
